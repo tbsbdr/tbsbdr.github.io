@@ -13,6 +13,7 @@ module.exports = {
           ondark: '#adbdcc',
           darker: '#06182c',
           text: '#425466',
+          gradientmiddle: '#0e3358',
           greybg: '#f6f9fc',
           footerbg: '#0a2540',
           onfooter: '#0a2540',
