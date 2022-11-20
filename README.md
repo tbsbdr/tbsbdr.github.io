@@ -20,3 +20,6 @@ npx tailwindcss -i ./src/input.css -o ./output.css --watch
 ---
 All details on:
 https://tailwindcss.com/docs/installation
+
+## References
+https://www.istockphoto.com/de/foto/elektriker-arbeitet-an-elektro-panel-gm1165561132-320758763?phrase=electrician
