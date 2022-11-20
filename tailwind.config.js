@@ -5,7 +5,20 @@ module.exports = {
     fontFamily: {
       'sans': ['Lexend', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
     },
-    extend: {},
+    extend: {
+      colors:{
+        baader:{
+          dark: '#0a2540',
+          accent: '#00ccff',
+          ondark: '#adbdcc',
+          darker: '#06182c',
+          text: '#425466',
+          greybg: '#f6f9fc',
+          footerbg: '#0a2540',
+          onfooter: '#0a2540',
+        }
+      }
+    },
   },
   plugins: [],
 }
