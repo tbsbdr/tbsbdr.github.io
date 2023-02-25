@@ -3,7 +3,7 @@ module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
     fontFamily: {
-      'sans': ['Lexend', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
+      'sans': ['work Sans', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
     },
     extend: {
       colors:{
