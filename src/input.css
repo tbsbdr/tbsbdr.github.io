@@ -4,13 +4,8 @@
 
 /* Chivo-regular - latin */
 @font-face {
-<<<<<<< Updated upstream
     font-family: Lexend;
     src: url("assets/fonts/Lexend/Lexend-VariableFont_wght.ttf")
-=======
-    font-family: Chivo;
-    src: url("assets/fonts/Chivo/Chivo-VariableFont_wght.ttf")
->>>>>>> Stashed changes
       format("truetype-variations");
       font-weight: 100 1000;
   }

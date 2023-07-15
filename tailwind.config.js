@@ -3,9 +3,6 @@ module.exports = {
   content: ["./dist/**/*.{html,js}"],
   theme: {
     fontFamily: {
-<<<<<<< Updated upstream
-      'sans': ['Lexend', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
-=======
       'sans': ['Chivo', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
     },
     extend: {
@@ -22,7 +19,6 @@ module.exports = {
           onfooter: '#0a2540',
         }
       }
->>>>>>> Stashed changes
     },
     extend: {},
   },
