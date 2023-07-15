@@ -1914,6 +1914,14 @@ p {
   padding-bottom: 9rem;
 }
 
+.pb-48 {
+  padding-bottom: 12rem;
+}
+
+.pb-52 {
+  padding-bottom: 13rem;
+}
+
 .text-left {
   text-align: left;
 }
