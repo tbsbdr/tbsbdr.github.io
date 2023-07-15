@@ -3,13 +3,16 @@ module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
     fontFamily: {
-      'sans': ['work Sans', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
+      'sans': ['Cabin', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
+    },
+    fontSize: {
+      'baader-hero': '9vw',
     },
     extend: {
       colors:{
         baader:{
           dark: '#0a2540',
-          accent: '#00ccff',
+          accent: '#55CCFF',
           ondark: '#adbdcc',
           darker: '#06182c',
           text: '#425466',
