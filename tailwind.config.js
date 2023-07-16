@@ -1,12 +1,11 @@
-/** @type {import('tailwindcss').Config} */
+/* @type {import('tailwindcss').Config}
+ */
+
 module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
     fontFamily: {
-      'sans': ['Cabin', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
-    },
-    fontSize: {
-      'baader-hero': '9vw',
+      'sans': ['ReadexPro', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
     },
     extend: {
       colors:{
@@ -22,6 +21,9 @@ module.exports = {
           onfooter: '#0a2540',
         }
       }
+/*       fontSize: {
+        baader-hero: '9vw',
+      }, */
     },
   },
   plugins: [],
