@@ -782,6 +782,22 @@ p {
   height: 100vh;
 }
 
+.h-full {
+  height: 100%;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-3\/5 {
+  width: 60%;
+}
+
+.w-4\/5 {
+  width: 80%;
+}
+
 .max-w-screen-lg {
   max-width: 1024px;
 }
@@ -1304,6 +1320,10 @@ p {
 
 .gap-10 {
   gap: 2.5rem;
+}
+
+.gap-36 {
+  gap: 9rem;
 }
 
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
@@ -1873,6 +1893,11 @@ p {
   padding-right: 1rem;
 }
 
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+}
+
 .py-14 {
   padding-top: 3.5rem;
   padding-bottom: 3.5rem;
@@ -1883,19 +1908,9 @@ p {
   padding-bottom: 0.75rem;
 }
 
-.px-5 {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
-
-.px-6 {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
-.px-7 {
-  padding-left: 1.75rem;
-  padding-right: 1.75rem;
+.py-52 {
+  padding-top: 13rem;
+  padding-bottom: 13rem;
 }
 
 .pb-4 {
@@ -1912,6 +1927,14 @@ p {
 
 .pl-5 {
   padding-left: 1.25rem;
+}
+
+.pt-52 {
+  padding-top: 13rem;
+}
+
+.pb-10 {
+  padding-bottom: 2.5rem;
 }
 
 .text-left {
@@ -2484,6 +2507,18 @@ p {
 }
 
 @media (min-width: 640px) {
+  .sm\:flex {
+    display: flex;
+  }
+
+  .sm\:flex-grow {
+    flex-grow: 1;
+  }
+
+  .sm\:text-end {
+    text-align: end;
+  }
+
   .sm\:underline {
     text-decoration-line: underline;
   }
