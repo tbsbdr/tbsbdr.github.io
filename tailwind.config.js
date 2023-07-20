@@ -20,10 +20,10 @@ module.exports = {
           footerbg: '#0a2540',
           onfooter: '#0a2540',
         }
-      }
-/*       fontSize: {
-        baader-hero: '9vw',
-      }, */
+      }, 
+       fontSize: {
+        'baader-hero': '9vw',
+      }, 
     },
   },
   plugins: [],
