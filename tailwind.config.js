@@ -5,7 +5,8 @@ module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
     fontFamily: {
-      'sans': ['ReadexPro', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif']
+      'display': ['ReadexPro', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif'],
+      'body': ['Chivo', 'ui-sans-serif', 'system-ui', 'Helvetica', 'Arial', 'sans-serif'],
     },
     extend: {
       colors:{
