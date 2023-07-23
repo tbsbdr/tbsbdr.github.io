@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: /sitemap.xml
 User-Agent: *
 Allow: /
-Disallow: datenschutz.html
+Disallow: /datenschutz.html
