@@ -1904,6 +1904,21 @@ p {
   padding-bottom: 13rem;
 }
 
+.px-32 {
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
+.py-32 {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+.py-24 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
 .pb-10 {
   padding-bottom: 2.5rem;
 }
@@ -1926,6 +1941,18 @@ p {
 
 .pt-52 {
   padding-top: 13rem;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
+.pt-16 {
+  padding-top: 4rem;
+}
+
+.pt-24 {
+  padding-top: 6rem;
 }
 
 .text-left {
@@ -2002,12 +2029,21 @@ p {
   line-height: 1.75rem;
 }
 
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .font-bold {
   font-weight: 700;
 }
 
 .font-normal {
   font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
 }
 
 .uppercase {
@@ -2516,6 +2552,15 @@ p {
 
   .sm\:flex-grow {
     flex-grow: 1;
+  }
+
+  .sm\:py-52 {
+    padding-top: 13rem;
+    padding-bottom: 13rem;
+  }
+
+  .sm\:pt-52 {
+    padding-top: 13rem;
   }
 
   .sm\:text-end {
