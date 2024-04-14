@@ -1,4 +1,0 @@
-Sitemap: https://www.elektro-baader.com/sitemap.xml
-User-Agent: *
-Allow: /
-Disallow: /datenschutz.html
