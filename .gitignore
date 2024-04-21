@@ -1,6 +1,4 @@
-
 .DS_Store
 /node_modules
-/public
-public/*
-public/authors/sam-wilson/index.html
+public/
+resources/
