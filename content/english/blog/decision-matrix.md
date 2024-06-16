@@ -1,5 +1,5 @@
 ---
-title: "Decision-Matrix: Improve the self-ogranisation skills of your team"
+title: "Decision-Matrix: Improve team self-organisation"
 meta_title: ""
 description: "Understanding Decision-Making Levels: A Simple Guide"
 date: 2020-10-04T07:30:00Z
