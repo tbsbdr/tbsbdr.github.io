@@ -1,9 +1,14 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+title: "Hey, I am Tobias Baader!"
+meta_title: "About Tobias Baader"
+description: "Product Manager Tobias Baader"
+image: "/images/Tobias Baader.jpg"
 draft: false
+
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+I am a product manager with over {{% yearssince 2011 %}} years of experience in web and mobile development, working with agile methods.
+
+I have led development teams of more than 20 members and specialize in evaluating product-market fits in real-world scenarios. My strength lies in making complex technologies user-friendly.
+
+I have worked on a variety of projects, including optimizing conversions for e-commerce, increasing user engagement in social networks, and finding the right market fit for new or established products or . Throughout my career, I have managed several major product launches and developed numerous complex products. My focus is on delivering fast, practical results.
