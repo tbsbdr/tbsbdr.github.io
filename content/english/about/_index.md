@@ -7,7 +7,7 @@ draft: false
 
 ---
 
-I am a product manager with over {{% yearssince 2011 %}} years of experience in web and mobile development, working with agile methods.
+I am a product owner with over {{% yearssince 2011 %}} years of experience in web and mobile development, working with agile methods.
 
 I have led development teams of more than 20 members and specialize in evaluating product-market fits in real-world scenarios. My strength lies in making complex technologies user-friendly.
 
