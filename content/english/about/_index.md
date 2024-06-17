@@ -18,7 +18,6 @@ I have worked on a variety of projects, including optimizing conversions for e-c
 
 
 
-<p class="text-center pt-4">Some organizations I have worked with</p>
+<p class="mt-4 mb-1">Some organizations I have worked with</p>
 
-![Organizations I have worked with](/images/banners.png "Organizations I have worked with")
-
+<img class="mt-2" src="/images/banners.png" alt="Organizations I have worked with">
