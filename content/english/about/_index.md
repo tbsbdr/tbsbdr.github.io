@@ -1,11 +1,13 @@
 ---
-title: "Hey, I am Tobias Baader!"
+title: "About Tobias Baader"
 meta_title: "About Tobias Baader"
-description: "Product Manager Tobias Baader"
+description: "Tobias Baader Create digital products"
 image: "/images/Tobias Baader.jpg"
 draft: false
 
 ---
+<h1 class="font-medium">Hi, I'm Tobias</h1>
+<h1 class="font-extrabold pb-7">I create digital products</h2>
 
 I am a product guy with over {{% yearssince 2011 %}} years of experience in developing web and mobile products, working with agile methods.
 
