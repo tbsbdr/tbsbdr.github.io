@@ -17,7 +17,7 @@ body:
       placeholder: What is requested?
     validations:
       required: true
-   - type: input
+  - type: input
     id: customername
     attributes:
       label: Customer
