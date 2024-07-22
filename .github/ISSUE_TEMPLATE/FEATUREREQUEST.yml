@@ -1,5 +1,5 @@
 name: Customer Feature Request
-description: Feature request by a customer or prospect
+description: Feature request by a customer or prospect for Infinite Scale
 title: "[FR]: "
 labels: ["blue-ticket", "p3-medium"]
 assignees:
@@ -28,8 +28,8 @@ body:
   - type: input
     id: arr
     attributes:
-      label: Annually Recurring Revenue
-      description: Existing or future annually recurring revenue (ARR) of that customer.
+      label: ARR
+      description: Existing or future annually recurring revenue (ARR) of that customer or opportunity.
       placeholder: 100.000 €
     validations:
       required: true
