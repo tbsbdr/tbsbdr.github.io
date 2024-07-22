@@ -1,0 +1,51 @@
+name: Customer Feature Request
+description: Feature request by a customer or prospect
+title: "[FR]: "
+labels: ["blue-ticket", "p3-medium"]
+assignees:
+  - tbsbdr
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request. This helps us to keep track of your request.
+  - type: textarea
+    id: featurerequest
+    attributes:
+      label: Feature Request
+      description: What is requested by the customer?
+      placeholder: What is requested?
+    validations:
+      required: true
+   - type: input
+    id: customername
+    attributes:
+      label: Customer
+      description: Customer name
+      placeholder: ACME
+    validations:
+      required: true 
+  - type: input
+    id: arr
+    attributes:
+      label: Annually Recurring Revenue
+      description: Existing or future annually recurring revenue (ARR) of that customer.
+      placeholder: 100.000 €
+    validations:
+      required: true
+  - type: input
+    id: golivedate
+    attributes:
+      label: Go-live Date
+      description: Date by which the feature must be usable in production by end users
+      placeholder: 30.6.2028
+    validations:
+      required: true
+  - type: input
+    id: handoverdate
+    attributes:
+      label: Handover Date
+      description: Date by which the feature must be available to the customer, e.g., for acceptance testing on a staging system.
+      placeholder: 30.4.2028
+    validations:
+      required: true
