@@ -13,12 +13,12 @@ logo_webp = true
 # logo text will only show when logo is missing.
 logo_text = "Tobias Baader Creating Valuable Products"
 # navbar fixed to top
-navbar_fixed = true
+navbar_fixed = false
 # theme-mode
 theme_switcher = false
 theme_default = "dark" # available options [light/dark/system]
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["about"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = false
-label = "get a quote"
+label = "Contact"
 link = "contact"
 
 # search
@@ -56,9 +56,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["Tobias Baader", "Product Manager"]
+description = "Tobias Baader"
+author = "Tobias Baader"
 image = "images/og-image.png"
 
 

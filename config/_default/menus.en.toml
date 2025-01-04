@@ -2,18 +2,24 @@
 
 # main menu
 [[main]]
-name = "Blog"
-pageRef = "/blog"
-weight = 1
-
-[[main]]
 name = "About"
 pageRef = "/about"
+weight = 1
+
+
+[[main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 2
+
+[[main]]
+name = "Contact"
+pageRef = "/contact"
 weight = 2
 
 # footer menu
 [[footer]]
-name = "About Me"
+name = "About"
 pageRef = "/about"
 weight = 1
 

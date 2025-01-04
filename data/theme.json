@@ -4,22 +4,22 @@
       "theme_color": {
         "primary": "#121212",
         "body": "#fff",
-        "border": "#1e293b",
+        "border": "#0f172a",
         "theme_light": "#f6f6f6",
-        "theme_dark": "#1e293b"
+        "theme_dark": "#0f172a"
       },
       "text_color": {
         "default": "#444444",
-        "dark": "#1e293b",
-        "light": "#1e293b"
+        "dark": "#0f172a",
+        "light": "#0f172a"
       }
     },
     "darkmode": {
       "theme_color": {
         "primary": "#fff",
-        "body": "#1e293b",
+        "body": "#0f172a",
         "border": "#ffffff",
-        "theme_light": "#1b2636",
+        "theme_light": "#0f172a",
         "theme_dark": ""
       },
       "text_color": {
