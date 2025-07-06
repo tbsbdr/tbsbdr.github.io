@@ -9,3 +9,8 @@ body{
 header{
     background-color: transparent!important;
 }
+
+// disable mobile menu as there are no navitems
+#show-button{
+    display: none;
+}
