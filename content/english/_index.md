@@ -7,34 +7,33 @@ draft: false
 
 ---
 <h1 class="font-medium text-center">Hi, I'm Tobias</h1>
-<h1 class="font-extrabold text-center pb-7">I create digital products</h2>
+<h1 class="font-extrabold text-center pb-7">Product Manager of OpenCloud</h2>
 
-I am an open source product manager with over {{% yearssince 2011 %}} years of experience in developing web and mobile products, working with agile methods.
+I'm motivated by learning from and working with technical and smart people to take innovation from **prototype to scale**. My specialization is **creating order from noise** in messy, real-world environments where product–market fit is unclear. I learn fastest by **getting out of the building** to validate ideas where they break.
 
-I specialize in evaluating product-market fit in real-world scenarios. My strength lies in making complex technologies user-friendly.
+I’ve spent the last {{% yearssince 2011 %}}  years doing this and am rooted in the Open Source community.
 
-I have worked on a variety of projects, including optimizing conversions for e-commerce and finding the right market fit for products. Throughout my career, I have managed several major product launches and developed numerous complex products. My focus is on delivering fast, practical results.
-
-
-
-
-<span class="mt-14 mb-1">Some organizations I have worked with</span>
+<span class="mt-14 mb-1">Organizations I have worked with</span>
 ![banners](/images/banner.png "organizations I have worked with")
 
 ## Recent Talks
-
-- **CS3 Conference** – *Lessons Learned from Implementing Accessibility*
-- **Tech Talk** – *Integrate Microsoft Teams for Safe Collaboration*
-- **Expert Talk** – *Introducing ownCloud Infinite Scale 3.0*
-- **OpenSUSE Conference** – *Quick Start with ownCloud Infinite Scale*
-- **Chemnitzer Linux Days** – *Infinite Scale – The New Private Cloud*
-- **Congress IT-SA – Home of IT Security** – *Quick Start with Infinite Scale*
-- **Univention Summit** – *Workshop: Introduction to OpenCloud*
-- **I Love Free Software Day** – *Getting Started with OpenCloud*
-- **Release Webinar** – *OpenCloud 2.0*
-- **CS3 Conference** – *Excellent Filesharing with OpenCloud*
-- **Webinar** – *Understanding, Selling & Deploying OpenCloud*
-- **Grazer Linux Days** – *OpenCloud – Excellent File Management*
+- **Open Source Experience Paris (OSXP)** - *Introduction to Simple, Reliable File Sharing*
+- **South Tyrol Free Software Conference (SFSCON)** - *Lessons learned: Guidance on how to make open source development a success*
+- **Free and Open Source Software Conference (FrOSCon)** – *Our Learnings for a Simple, Stable File Cloud*
 - **Secure Linux Administration Conference (SLAC)** – *Introduction to OpenCloud*
 - **Nürnberg Digital Festival** – *OpenCloud – A Real-World Use Case for Enterprises*
-- **Free and Open Source Software Conference (FrOSCon)** – *Our Learnings for a Simple, Stable File Cloud*
+- **Grazer Linux Days** – *OpenCloud – Excellent File Management*
+- **Webinar** – *Understanding, Selling & Deploying OpenCloud*
+- **CS3 Conference** – *Excellent Filesharing with OpenCloud*
+- **Release Webinar** – *OpenCloud 2.0*
+- **I Love Free Software Day** – *Getting Started with OpenCloud*
+- **Univention Summit** – *Workshop: Introduction to OpenCloud*
+- **Congress IT-SA – Home of IT Security** – *Quick Start with Infinite Scale*
+- **Chemnitzer Linux Days** – *Infinite Scale – The New Private Cloud*
+- **OpenSUSE Conference** – *Quick Start with ownCloud Infinite Scale*
+- **Expert Talk** – *Introducing ownCloud Infinite Scale 3.0*
+- **Tech Talk** – *Integrate Microsoft Teams for Safe Collaboration*
+- **CS3 Conference** – *Lessons Learned from Implementing Accessibility*
+
+
+
